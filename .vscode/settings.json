@@ -1,0 +1,7 @@
+{
+   "prettier.printWidth": 120,
+   "editor.fontFamily": "Monaspace Neon, Intel One Mono, monospace", // Monaspace Neon/Argon/Krypton/Radon/Xenon
+   "editor.fontLigatures": "'calt'",
+   "editor.tabSize": 3,
+   "editor.lineHeight": 0
+}
